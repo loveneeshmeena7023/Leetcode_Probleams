@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0033-search-in-rotated-sorted-array) |
+| [0053-maximum-subarray](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0053-maximum-subarray) |
 | [0238-product-of-array-except-self](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0238-product-of-array-except-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -35,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0050-powx-n) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
