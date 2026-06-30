@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0033-search-in-rotated-sorted-array) |
+| [0238-product-of-array-except-self](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0238-product-of-array-except-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Binary Search
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0033-search-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0852-peak-index-in-a-mountain-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
