@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0118-pascals-triangle) |
+| [0217-contains-duplicate](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0540-single-element-in-a-sorted-array) |
@@ -81,4 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0240-search-a-2d-matrix-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
