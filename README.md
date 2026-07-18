@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Binary Search
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0035-search-insert-position) |
 | [0240-search-a-2d-matrix-ii](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Prefix Sum
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -86,8 +89,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
