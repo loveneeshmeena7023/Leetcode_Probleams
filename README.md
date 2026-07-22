@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Binary Search
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0035-search-insert-position) |
 | [0240-search-a-2d-matrix-ii](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Prefix Sum
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0443-string-compression) |
 ## Greedy
 |  |
@@ -92,11 +95,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
