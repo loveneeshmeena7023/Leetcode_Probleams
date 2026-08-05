@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0066-plus-one) |
+| [0084-largest-rectangle-in-histogram](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0118-pascals-triangle) |
 | [0217-contains-duplicate](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0238-product-of-array-except-self) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0155-min-stack) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
@@ -150,4 +152,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0084-largest-rectangle-in-histogram) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
