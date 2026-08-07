@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0349-intersection-of-two-arrays) |
+| [0496-next-greater-element-i](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0503-next-greater-element-ii) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0349-intersection-of-two-arrays) |
+| [0496-next-greater-element-i](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0503-next-greater-element-ii) |
 ## Range Minimum/Maximum Query
 |  |
