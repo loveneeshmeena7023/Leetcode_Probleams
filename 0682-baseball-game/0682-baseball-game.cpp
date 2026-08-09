@@ -3,22 +3,22 @@ public:
     int calPoints(vector<string>& operations) {
         
 
-        stack<int>st;
+      stack<int>st;
 
-     for(string op:operations){
+      for(string op:operations){
         if(op == "C"){
             st.pop();
         }
         else if(op == "D"){
-           int x = st.top();
-           st.push(2*x);
+            int x = st.top();
+            st.push(2*x);
+
         }
-        else if(op=="+"){
+        else if(op == "+"){
             int first = st.top();
             st.pop();
 
             int second = st.top();
-
             st.push(first);
 
             st.push(first+second);
@@ -26,12 +26,14 @@ public:
         else{
             st.push(stoi(op));
         }
-     }
-     int ans =0;
-     while(!st.empty()){
-        ans+= st.top();
+        
+      }
+      int  ans =0;
+
+      while(!st.empty()){
+        ans += st.top();
         st.pop();
-     }
-     return ans;
+      }
+      return  ans;
     }
 };
