@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0540-single-element-in-a-sorted-array) |
+| [0682-baseball-game](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0682-baseball-game) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Binary Search
 |  |
@@ -107,10 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0682-baseball-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0682-baseball-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Matrix
 |  |
