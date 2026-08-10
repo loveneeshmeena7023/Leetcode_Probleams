@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0443-string-compression) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
@@ -194,4 +196,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
