@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0443-string-compression) |
 | [0844-backspace-string-compare](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0844-backspace-string-compare) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [3174-clear-digits](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/3174-clear-digits) |
 ## Stack
 |  |
 | ------- |
@@ -118,12 +119,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0844-backspace-string-compare) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [3174-clear-digits](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/3174-clear-digits) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0844-backspace-string-compare) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [3174-clear-digits](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/3174-clear-digits) |
 ## Matrix
 |  |
 | ------- |
