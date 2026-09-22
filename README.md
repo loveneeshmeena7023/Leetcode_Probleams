@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0118-pascals-triangle) |
 | [0134-gas-station](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0134-gas-station) |
 | [0217-contains-duplicate](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0217-contains-duplicate) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0240-search-a-2d-matrix-ii) |
 ## Dynamic Programming
 |  |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0094-binary-tree-inorder-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0257-binary-tree-paths) |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0094-binary-tree-inorder-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0257-binary-tree-paths) |
@@ -271,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0662-maximum-width-of-binary-tree](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0662-maximum-width-of-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/loveneeshmeena7023/Leetcode_Probleams/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
